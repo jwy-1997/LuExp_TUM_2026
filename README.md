@@ -8,9 +8,9 @@ For lunar exploration course exercise. This is for the practice for it.
 The reference slide is [here](https://www.moodle.tum.de/pluginfile.php/6292536/mod_resource/content/1/LSX08a_Datasets_LOLA_2026.pdf). 
 ### Tasks 
 A. Start work with the GDR height map with a resolution of 1/16 deg/pxl (ldem_16.img/lbl).
-- [ ] Generate a height map of the Moon as the one below but centered at the near side (0º longitude)
-- [ ] Give the coordinates of the highest and lowest points of the Moon’s surface on the near and far side.
-- [ ] Create a histogram of heights for the near and the far side of the Moon.
+- [x] Generate a height map of the Moon as the one below but centered at the near side (0º longitude)
+- [x] Give the coordinates of the highest and lowest points of the Moon’s surface on the near and far side.
+- [x] Create a histogram of heights for the near and the far side of the Moon.
 
 B. Use the average solar illumination GDR maps for
 the poles at ± 85° latitude, available [here](https://imbrium.mit.edu/BROWSE/EXTRAS/ILLUMINATION/)
