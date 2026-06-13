@@ -22,3 +22,13 @@ the coordinates of its approximate center.
 - [ ] Give an approximation of the proportion of the
 permanently shadowed projected area.
  
+ ## Exercise 2
+reference slide is [here](https://www.moodle.tum.de/pluginfile.php/6293250/mod_resource/content/2/LSX08b_Datasets_Diviner_2026.pdf)
+
+
+ ## Exercise 3 
+reference slide is [here](https://www.moodle.tum.de/pluginfile.php/6297915/mod_resource/content/2/LSX09_Datasets_Quickmap_2026.pdf)
+Needs to be noticed that the result of the exercise shall be saved in a PDF form instead of uploading markdown result. 
+
+ ## Challenge 
+ reference slide is [here](https://www.moodle.tum.de/pluginfile.php/6299568/mod_assign/introattachment/0/exercise_find_lunar_feature.pdf?forcedownload=1)
